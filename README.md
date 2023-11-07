@@ -5,10 +5,6 @@ Simulador de Algoritmo Tomasulo
 
 
 
-1.	Diagrama de Classe:
- 
-
-
 
 2.	Pseudo-código:
 
